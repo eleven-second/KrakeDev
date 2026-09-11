@@ -1,1 +1,2 @@
 git clone: <Clona un repositorio, creando una copia exacta en la maquina loca>
+git commit:<Guarda una version de los cambios realizados en la maquina local, que anteriormente preparamos con git add.>
