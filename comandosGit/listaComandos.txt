@@ -1,0 +1,1 @@
+git clone: <Clona un repositorio, creando una copia exacta en la maquina loca>
